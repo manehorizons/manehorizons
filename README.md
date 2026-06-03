@@ -1,4 +1,4 @@
-### Hi, I'm Thomas Powers 👋
+### Hi! I'm T. Powers
 
 Senior staff software engineer (~17 years), the last year spent deep in AI engineering.
 
