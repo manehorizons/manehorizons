@@ -25,8 +25,8 @@ I might be reading this wrong. But it's the version of the problem I can actuall
 
 ## A few things I've had to learn the hard way
 
-- **Self-certification is the failure mode.** Not hallucination, not capability. The agent
-  genuinely believes it's done.
+- **Self-certification is the failure mode.** The agent
+  genuinely believes it's done or maniputes the assertions so that it is and convinces the developer to push the changes.
 - **Corpus before code.** Write the adversarial fixtures and run them against a real
   extractor before any implementation exists. Otherwise you build to the tests you imagined.
 
