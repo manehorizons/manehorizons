@@ -21,7 +21,7 @@ I might be reading this wrong. But it's the version of the problem I can actuall
 | **Phenyx** | Behavior-aware codebase intelligence. Two planes: a deterministic symbol graph and a semantic concept graph, so a task doesn't need a full-repo scan to know its blast radius. | Testing |
 | **Brainswarm** | Local-first multi-agent brainstorming cockpit. Everything stays on the machine. | Testing |
 | **Déjà** | Reuse gate and oracle. LLMs reinvent your utilities constantly; asking them nicely not to (which I tried) doesn't hold. This one checks. | Testing |
-| **Necro** | Dead code forensics — confidence tiers and evidence chains rather than a verdict you have to take on faith. | Testing |
+| **[Necro](https://github.com/manehorizons/necro)** | Dead code forensics — confidence tiers and evidence chains rather than a verdict you have to take on faith. | Release — MIT, [`@manehorizons/necro`](https://www.npmjs.com/package/@manehorizons/necro) |
 
 ## A few things I've had to learn the hard way
 
